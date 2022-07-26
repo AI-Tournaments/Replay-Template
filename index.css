@@ -1,3 +1,6 @@
 :root.wrapped {
 	color: white;
 }
+.error {
+	color: red;
+}
